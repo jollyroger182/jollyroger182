@@ -1,0 +1,154 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.98",
+  "elapsed_seconds"    : 1.87170100212097,
+  "n_files"            : 1905,
+  "n_lines"            : 403164,
+  "files_per_second"   : 1017.79076777824,
+  "lines_per_second"   : 215399.788504223,
+  "report_file"        : "../output/cloc-output.json"},
+"C/C++ Header" :{
+  "nFiles": 351,
+  "blank": 18007,
+  "comment": 25856,
+  "code": 107803},
+"C++" :{
+  "nFiles": 438,
+  "blank": 3130,
+  "comment": 1377,
+  "code": 56683},
+"JavaScript" :{
+  "nFiles": 32,
+  "blank": 690,
+  "comment": 4557,
+  "code": 50163},
+"Python" :{
+  "nFiles": 358,
+  "blank": 6955,
+  "comment": 5052,
+  "code": 33947},
+"TypeScript" :{
+  "nFiles": 206,
+  "blank": 1306,
+  "comment": 8354,
+  "code": 25639},
+"Vuejs Component" :{
+  "nFiles": 135,
+  "blank": 899,
+  "comment": 268,
+  "code": 11480},
+"Pascal" :{
+  "nFiles": 2,
+  "blank": 263,
+  "comment": 0,
+  "code": 6945},
+"Java" :{
+  "nFiles": 89,
+  "blank": 715,
+  "comment": 59,
+  "code": 5387},
+"C" :{
+  "nFiles": 38,
+  "blank": 315,
+  "comment": 143,
+  "code": 4166},
+"Assembly" :{
+  "nFiles": 11,
+  "blank": 35,
+  "comment": 40,
+  "code": 3836},
+"Verilog-SystemVerilog" :{
+  "nFiles": 3,
+  "blank": 330,
+  "comment": 105,
+  "code": 2786},
+"Bourne Shell" :{
+  "nFiles": 117,
+  "blank": 149,
+  "comment": 230,
+  "code": 2765},
+"Swift" :{
+  "nFiles": 39,
+  "blank": 360,
+  "comment": 286,
+  "code": 2024},
+"Jupyter Notebook" :{
+  "nFiles": 12,
+  "blank": 0,
+  "comment": 5033,
+  "code": 921},
+"Rust" :{
+  "nFiles": 18,
+  "blank": 104,
+  "comment": 8,
+  "code": 492},
+"Gradle" :{
+  "nFiles": 6,
+  "blank": 109,
+  "comment": 88,
+  "code": 445},
+"DOS Batch" :{
+  "nFiles": 4,
+  "blank": 106,
+  "comment": 6,
+  "code": 385},
+"Godot Scene" :{
+  "nFiles": 2,
+  "blank": 40,
+  "comment": 0,
+  "code": 366},
+"JSX" :{
+  "nFiles": 6,
+  "blank": 38,
+  "comment": 103,
+  "code": 309},
+"SQL" :{
+  "nFiles": 7,
+  "blank": 39,
+  "comment": 3,
+  "code": 291},
+"Ant" :{
+  "nFiles": 1,
+  "blank": 25,
+  "comment": 17,
+  "code": 180},
+"make" :{
+  "nFiles": 10,
+  "blank": 53,
+  "comment": 18,
+  "code": 164},
+"Maven" :{
+  "nFiles": 2,
+  "blank": 11,
+  "comment": 0,
+  "code": 159},
+"INI" :{
+  "nFiles": 11,
+  "blank": 13,
+  "comment": 0,
+  "code": 152},
+"Bourne Again Shell" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 29,
+  "code": 127},
+"GDScript" :{
+  "nFiles": 3,
+  "blank": 20,
+  "comment": 25,
+  "code": 62},
+"Linker Script" :{
+  "nFiles": 1,
+  "blank": 11,
+  "comment": 13,
+  "code": 52},
+"Dockerfile" :{
+  "nFiles": 2,
+  "blank": 7,
+  "comment": 1,
+  "code": 32},
+"SUM": {
+  "blank": 33732,
+  "comment": 51671,
+  "code": 317761,
+  "nFiles": 1905} }

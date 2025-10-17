@@ -16,6 +16,15 @@ Here are some ideas to get you started:
 -->
 
 <!-- LANGUAGES BREAKDOWN START -->
+```
+[ LANGUAGES BREAKDOWN ]
 
+JavaScript   --> 50,163 lines
+TypeScript   --> 25,639 lines
+JSX          --> 309 lines
+Others       --> 241,650 lines
+
+[ TOTAL LINES OF CODE: 317,761 ]
+```
 <!-- LANGUAGES BREAKDOWN END -->
 *Stats update automatically via GitHub Actions.*
