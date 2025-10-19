@@ -1,11 +1,11 @@
 {"header" : {
   "cloc_url"           : "github.com/AlDanial/cloc",
   "cloc_version"       : "1.98",
-  "elapsed_seconds"    : 1.87170100212097,
-  "n_files"            : 1905,
-  "n_lines"            : 403164,
-  "files_per_second"   : 1017.79076777824,
-  "lines_per_second"   : 215399.788504223,
+  "elapsed_seconds"    : 3.01872181892395,
+  "n_files"            : 2160,
+  "n_lines"            : 430605,
+  "files_per_second"   : 715.53463007398,
+  "lines_per_second"   : 142644.80989954,
   "report_file"        : "../output/cloc-output.json"},
 "C/C++ Header" :{
   "nFiles": 351,
@@ -28,10 +28,15 @@
   "comment": 5052,
   "code": 33947},
 "TypeScript" :{
-  "nFiles": 206,
-  "blank": 1306,
-  "comment": 8354,
-  "code": 25639},
+  "nFiles": 211,
+  "blank": 1359,
+  "comment": 8359,
+  "code": 25846},
+"Go" :{
+  "nFiles": 247,
+  "blank": 4187,
+  "comment": 1216,
+  "code": 21595},
 "Vuejs Component" :{
   "nFiles": 135,
   "blank": 899,
@@ -107,16 +112,16 @@
   "blank": 39,
   "comment": 3,
   "code": 291},
+"make" :{
+  "nFiles": 12,
+  "blank": 94,
+  "comment": 18,
+  "code": 280},
 "Ant" :{
   "nFiles": 1,
   "blank": 25,
   "comment": 17,
   "code": 180},
-"make" :{
-  "nFiles": 10,
-  "blank": 53,
-  "comment": 18,
-  "code": 164},
 "Maven" :{
   "nFiles": 2,
   "blank": 11,
@@ -143,12 +148,12 @@
   "comment": 13,
   "code": 52},
 "Dockerfile" :{
-  "nFiles": 2,
-  "blank": 7,
+  "nFiles": 3,
+  "blank": 11,
   "comment": 1,
-  "code": 32},
+  "code": 49},
 "SUM": {
-  "blank": 33732,
-  "comment": 51671,
-  "code": 317761,
-  "nFiles": 1905} }
+  "blank": 38017,
+  "comment": 52892,
+  "code": 339696,
+  "nFiles": 2160} }

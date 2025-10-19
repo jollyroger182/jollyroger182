@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 [ LANGUAGES BREAKDOWN ]
 
 JavaScript   --> 50,163 lines
-TypeScript   --> 25,639 lines
+TypeScript   --> 25,846 lines
 JSX          --> 309 lines
-Others       --> 241,650 lines
+Others       --> 263,378 lines
 
-[ TOTAL LINES OF CODE: 317,761 ]
+[ TOTAL LINES OF CODE: 339,696 ]
 ```
 <!-- LANGUAGES BREAKDOWN END -->
 *Stats update automatically via GitHub Actions.*
