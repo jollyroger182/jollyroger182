@@ -14,12 +14,22 @@ Here are some of my recent projects, roughly sorted by category and date :3
 
 - **[FocusFlow](https://github.com/david-why/FocusFlow)**: An iOS app that forces the user to focus or lose coins. (Made for [Siege](https://siege.hackclub.com) week 5)
 - **[Spently](https://github.com/david-why/Spently)**: Financials tracker for iOS. (Made for [Shipwrecked](https://shipwrecked.hackclub.com))
+- **[PyDrive](https://github.com/david-why/pydrive)**: Python tool to mount your OneDrive / SharePoint drive using FUSE.
 
 ### 🤖 Bots
 - **[disclack](https://github.com/david-why/disclack)**: A bot that connects Discord and Slack channels. (Made for [Siege](https://siege.hackclub.com) week 7)
 - **[stonepheus](https://github.com/david-why/stonepheus)**: A Slack bot that manages help tickets. (Made for [Siege](https://siege.hackclub.com) week 6)
 - **[timepheus](https://github.com/david-why/timepheus)**: A Slack bot that converts natural language datetimes to users' local time zones. (Made for [Siege](https://siege.hackclub.com) week 3)
 - **[Quill](https://github.com/david-why/quill-bot)**: A Discord bot that records quotes inputted by users, with a variety of features including polls, custom reactions, and XKCD integration.
+
+### 🏫 For my high school
+
+- **[Silent Auction](https://github.com/david-why/binjauction)**: A website where students listed their artworks, and parents and teachers bid on them.
+- **[Scoreboard](https://github.com/david-why/scoreboard)**: A clean and sleek basketball scoreboard app for iPads.
+- **[My College Ranking (MCR)](https://github.com/david-why/mcr)**: A website where students configure the aspects of colleges and universities that matter to them, and the website generates a personalized ranking.
+- **[APCAlt](https://github.com/david-why/apcalt-python)**: An alternative frontend for AP Classroom because it was slow on my school's network.
+- **[Book Recommendations](https://github.com/david-why/bookrec-vue)**: A website where students can input their grade level, Lexile measure, and/or interests, and the system recommends them books to read from the school library.
+- **[AP History Review](https://github.com/david-why/apeh-review)**: A website that lists the key concepts in AP World History: Modern and AP European History in a tree-like format.
 
 ### 🧰 Utility
 
@@ -36,13 +46,6 @@ Here are some of my recent projects, roughly sorted by category and date :3
 - **[prgmVPLAYER](https://github.com/david-why/vplayer)**: A video player for the graphing calculator. (No, really.)
 - **[prgmPHB](https://github.com/david-why/ti84plusce-prgms/tree/main/phb)**: A portable D&amp;D 5e Player's Handbook.
 - **[ti84plusce-prgms](https://github.com/david-why/ti84plusce-prgms)**: A collection of my C/C++/Assembly programs for the calculator.
-
-### 🏫 For my high school
-
-- **[Silent Auction](https://github.com/david-why/binjauction)**: A website where students listed their artworks, and parents and teachers bid on them.
-- **[APCAlt](https://github.com/david-why/apcalt-python)**: An alternative frontend for AP Classroom because it was slow on my school's network.
-- **[Book Recommendations](https://github.com/david-why/bookrec-vue)**: A website where students can input their grade level, Lexile measure, and/or interests, and the system recommends them books to read from the school library.
-- **[AP History Review](https://github.com/david-why/apeh-review)**: A website that lists the key concepts in AP World History: Modern and AP European History in a tree-like format.
 
 ### Ⓜ️ Miscellaneous
 
