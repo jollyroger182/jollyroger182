@@ -1,11 +1,11 @@
 {"header" : {
   "cloc_url"           : "github.com/AlDanial/cloc",
   "cloc_version"       : "1.98",
-  "elapsed_seconds"    : 2.98521709442139,
-  "n_files"            : 2167,
-  "n_lines"            : 431635,
-  "files_per_second"   : 725.910354744241,
-  "lines_per_second"   : 144590.824167065,
+  "elapsed_seconds"    : 3.03264403343201,
+  "n_files"            : 2183,
+  "n_lines"            : 440237,
+  "files_per_second"   : 719.833905969348,
+  "lines_per_second"   : 145166.064710136,
   "report_file"        : "../output/cloc-output.json"},
 "C/C++ Header" :{
   "nFiles": 351,
@@ -18,30 +18,30 @@
   "comment": 1377,
   "code": 56683},
 "JavaScript" :{
-  "nFiles": 32,
-  "blank": 690,
-  "comment": 4557,
-  "code": 50163},
+  "nFiles": 33,
+  "blank": 691,
+  "comment": 4558,
+  "code": 50173},
 "Python" :{
   "nFiles": 358,
   "blank": 6955,
   "comment": 5052,
   "code": 33947},
 "TypeScript" :{
-  "nFiles": 214,
-  "blank": 1386,
-  "comment": 8368,
-  "code": 26312},
+  "nFiles": 221,
+  "blank": 1363,
+  "comment": 12273,
+  "code": 30299},
 "Go" :{
   "nFiles": 247,
   "blank": 4187,
   "comment": 1216,
   "code": 21595},
 "Vuejs Component" :{
-  "nFiles": 135,
+  "nFiles": 140,
   "blank": 899,
-  "comment": 268,
-  "code": 11480},
+  "comment": 239,
+  "code": 11648},
 "Pascal" :{
   "nFiles": 2,
   "blank": 263,
@@ -62,6 +62,11 @@
   "blank": 35,
   "comment": 40,
   "code": 3836},
+"Swift" :{
+  "nFiles": 48,
+  "blank": 524,
+  "comment": 349,
+  "code": 3088},
 "Verilog-SystemVerilog" :{
   "nFiles": 3,
   "blank": 330,
@@ -72,11 +77,6 @@
   "blank": 149,
   "comment": 230,
   "code": 2765},
-"Swift" :{
-  "nFiles": 43,
-  "blank": 425,
-  "comment": 311,
-  "code": 2456},
 "Jupyter Notebook" :{
   "nFiles": 12,
   "blank": 0,
@@ -107,11 +107,6 @@
   "blank": 38,
   "comment": 103,
   "code": 309},
-"SQL" :{
-  "nFiles": 7,
-  "blank": 40,
-  "comment": 3,
-  "code": 296},
 "make" :{
   "nFiles": 12,
   "blank": 94,
@@ -129,9 +124,14 @@
   "code": 159},
 "INI" :{
   "nFiles": 11,
-  "blank": 13,
+  "blank": 11,
   "comment": 0,
-  "code": 152},
+  "code": 149},
+"SQL" :{
+  "nFiles": 5,
+  "blank": 15,
+  "comment": 1,
+  "code": 141},
 "Bourne Again Shell" :{
   "nFiles": 1,
   "blank": 2,
@@ -153,7 +153,7 @@
   "comment": 1,
   "code": 49},
 "SUM": {
-  "blank": 38110,
-  "comment": 52926,
-  "code": 340599,
-  "nFiles": 2167} }
+  "blank": 38160,
+  "comment": 56839,
+  "code": 345238,
+  "nFiles": 2183} }
