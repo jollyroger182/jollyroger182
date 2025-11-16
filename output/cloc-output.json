@@ -1,11 +1,11 @@
 {"header" : {
   "cloc_url"           : "github.com/AlDanial/cloc",
   "cloc_version"       : "1.98",
-  "elapsed_seconds"    : 3.10786104202271,
-  "n_files"            : 2193,
-  "n_lines"            : 441202,
-  "files_per_second"   : 705.630004156402,
-  "lines_per_second"   : 141963.232600918,
+  "elapsed_seconds"    : 3.17984509468079,
+  "n_files"            : 2261,
+  "n_lines"            : 462667,
+  "files_per_second"   : 711.040925792951,
+  "lines_per_second"   : 145499.854937571,
   "report_file"        : "../output/cloc-output.json"},
 "C/C++ Header" :{
   "nFiles": 351,
@@ -18,30 +18,30 @@
   "comment": 1377,
   "code": 56683},
 "JavaScript" :{
-  "nFiles": 33,
-  "blank": 691,
-  "comment": 4558,
-  "code": 50173},
-"Python" :{
-  "nFiles": 358,
-  "blank": 6955,
-  "comment": 5052,
-  "code": 33947},
+  "nFiles": 34,
+  "blank": 692,
+  "comment": 4560,
+  "code": 50176},
 "TypeScript" :{
-  "nFiles": 226,
-  "blank": 1424,
-  "comment": 12277,
-  "code": 30719},
+  "nFiles": 272,
+  "blank": 1593,
+  "comment": 21443,
+  "code": 41044},
+"Python" :{
+  "nFiles": 357,
+  "blank": 6952,
+  "comment": 5052,
+  "code": 33928},
 "Go" :{
   "nFiles": 247,
   "blank": 4187,
   "comment": 1216,
   "code": 21595},
 "Vuejs Component" :{
-  "nFiles": 145,
-  "blank": 937,
-  "comment": 240,
-  "code": 12089},
+  "nFiles": 165,
+  "blank": 1109,
+  "comment": 252,
+  "code": 13689},
 "Pascal" :{
   "nFiles": 2,
   "blank": 263,
@@ -108,30 +108,30 @@
   "comment": 103,
   "code": 309},
 "make" :{
-  "nFiles": 12,
-  "blank": 94,
+  "nFiles": 11,
+  "blank": 92,
   "comment": 18,
-  "code": 280},
+  "code": 275},
 "Ant" :{
   "nFiles": 1,
   "blank": 25,
   "comment": 17,
   "code": 180},
+"SQL" :{
+  "nFiles": 7,
+  "blank": 17,
+  "comment": 1,
+  "code": 176},
 "Maven" :{
   "nFiles": 2,
   "blank": 11,
   "comment": 0,
   "code": 159},
 "INI" :{
-  "nFiles": 11,
-  "blank": 11,
+  "nFiles": 12,
+  "blank": 12,
   "comment": 0,
-  "code": 149},
-"SQL" :{
-  "nFiles": 5,
-  "blank": 15,
-  "comment": 1,
-  "code": 141},
+  "code": 155},
 "Bourne Again Shell" :{
   "nFiles": 1,
   "blank": 2,
@@ -153,7 +153,7 @@
   "comment": 1,
   "code": 49},
 "SUM": {
-  "blank": 38259,
-  "comment": 56844,
-  "code": 346099,
-  "nFiles": 2193} }
+  "blank": 38599,
+  "comment": 66024,
+  "code": 358044,
+  "nFiles": 2261} }
