@@ -1,11 +1,11 @@
 {"header" : {
   "cloc_url"           : "github.com/AlDanial/cloc",
   "cloc_version"       : "1.98",
-  "elapsed_seconds"    : 3.17984509468079,
-  "n_files"            : 2261,
-  "n_lines"            : 462667,
-  "files_per_second"   : 711.040925792951,
-  "lines_per_second"   : 145499.854937571,
+  "elapsed_seconds"    : 3.33927583694458,
+  "n_files"            : 2276,
+  "n_lines"            : 466418,
+  "files_per_second"   : 681.584903774385,
+  "lines_per_second"   : 139676.391761266,
   "report_file"        : "../output/cloc-output.json"},
 "C/C++ Header" :{
   "nFiles": 351,
@@ -23,15 +23,15 @@
   "comment": 4560,
   "code": 50176},
 "TypeScript" :{
-  "nFiles": 272,
-  "blank": 1593,
-  "comment": 21443,
-  "code": 41044},
+  "nFiles": 290,
+  "blank": 1820,
+  "comment": 21513,
+  "code": 44715},
 "Python" :{
-  "nFiles": 357,
-  "blank": 6952,
-  "comment": 5052,
-  "code": 33928},
+  "nFiles": 352,
+  "blank": 6904,
+  "comment": 5009,
+  "code": 33764},
 "Go" :{
   "nFiles": 247,
   "blank": 4187,
@@ -40,8 +40,8 @@
 "Vuejs Component" :{
   "nFiles": 165,
   "blank": 1109,
-  "comment": 252,
-  "code": 13689},
+  "comment": 253,
+  "code": 13698},
 "Pascal" :{
   "nFiles": 2,
   "blank": 263,
@@ -112,26 +112,26 @@
   "blank": 92,
   "comment": 18,
   "code": 275},
+"SQL" :{
+  "nFiles": 8,
+  "blank": 18,
+  "comment": 4,
+  "code": 193},
 "Ant" :{
   "nFiles": 1,
   "blank": 25,
   "comment": 17,
   "code": 180},
-"SQL" :{
-  "nFiles": 7,
-  "blank": 17,
-  "comment": 1,
-  "code": 176},
+"INI" :{
+  "nFiles": 13,
+  "blank": 13,
+  "comment": 0,
+  "code": 161},
 "Maven" :{
   "nFiles": 2,
   "blank": 11,
   "comment": 0,
   "code": 159},
-"INI" :{
-  "nFiles": 12,
-  "blank": 12,
-  "comment": 0,
-  "code": 155},
 "Bourne Again Shell" :{
   "nFiles": 1,
   "blank": 2,
@@ -153,7 +153,7 @@
   "comment": 1,
   "code": 49},
 "SUM": {
-  "blank": 38599,
-  "comment": 66024,
-  "code": 358044,
-  "nFiles": 2261} }
+  "blank": 38780,
+  "comment": 66055,
+  "code": 361583,
+  "nFiles": 2276} }
