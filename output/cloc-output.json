@@ -1,11 +1,11 @@
 {"header" : {
   "cloc_url"           : "github.com/AlDanial/cloc",
   "cloc_version"       : "1.98",
-  "elapsed_seconds"    : 3.17077493667603,
-  "n_files"            : 2253,
-  "n_lines"            : 462245,
-  "files_per_second"   : 710.551850886603,
-  "lines_per_second"   : 145782.973951655,
+  "elapsed_seconds"    : 2.93222093582153,
+  "n_files"            : 2197,
+  "n_lines"            : 442231,
+  "files_per_second"   : 749.261412453716,
+  "lines_per_second"   : 150817.762262549,
   "report_file"        : "../output/cloc-output.json"},
 "C/C++ Header" :{
   "nFiles": 348,
@@ -18,30 +18,30 @@
   "comment": 1377,
   "code": 56683},
 "JavaScript" :{
-  "nFiles": 36,
-  "blank": 697,
-  "comment": 4565,
-  "code": 50222},
+  "nFiles": 33,
+  "blank": 714,
+  "comment": 4543,
+  "code": 50010},
 "TypeScript" :{
-  "nFiles": 294,
-  "blank": 1931,
-  "comment": 21515,
-  "code": 45709},
-"Python" :{
-  "nFiles": 324,
-  "blank": 6519,
-  "comment": 4979,
-  "code": 29852},
+  "nFiles": 304,
+  "blank": 1965,
+  "comment": 21519,
+  "code": 45860},
 "Go" :{
   "nFiles": 247,
   "blank": 4187,
   "comment": 1216,
   "code": 21595},
+"Python" :{
+  "nFiles": 261,
+  "blank": 2909,
+  "comment": 1297,
+  "code": 17159},
 "Vuejs Component" :{
   "nFiles": 160,
   "blank": 1093,
   "comment": 250,
-  "code": 13404},
+  "code": 13403},
 "Pascal" :{
   "nFiles": 2,
   "blank": 263,
@@ -158,7 +158,7 @@
   "comment": 1,
   "code": 49},
 "SUM": {
-  "blank": 38486,
-  "comment": 65992,
-  "code": 357767,
-  "nFiles": 2253} }
+  "blank": 34927,
+  "comment": 62292,
+  "code": 345012,
+  "nFiles": 2197} }
