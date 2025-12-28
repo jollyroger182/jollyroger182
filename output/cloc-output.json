@@ -1,11 +1,11 @@
 {"header" : {
   "cloc_url"           : "github.com/AlDanial/cloc",
   "cloc_version"       : "1.98",
-  "elapsed_seconds"    : 2.93222093582153,
-  "n_files"            : 2197,
-  "n_lines"            : 442231,
-  "files_per_second"   : 749.261412453716,
-  "lines_per_second"   : 150817.762262549,
+  "elapsed_seconds"    : 2.87895202636719,
+  "n_files"            : 2199,
+  "n_lines"            : 420951,
+  "files_per_second"   : 763.819605141116,
+  "lines_per_second"   : 146216.746977607,
   "report_file"        : "../output/cloc-output.json"},
 "C/C++ Header" :{
   "nFiles": 348,
@@ -18,25 +18,25 @@
   "comment": 1377,
   "code": 56683},
 "JavaScript" :{
-  "nFiles": 33,
-  "blank": 714,
-  "comment": 4543,
-  "code": 50010},
+  "nFiles": 35,
+  "blank": 734,
+  "comment": 4545,
+  "code": 50071},
 "TypeScript" :{
-  "nFiles": 304,
-  "blank": 1965,
-  "comment": 21519,
-  "code": 45860},
+  "nFiles": 305,
+  "blank": 2014,
+  "comment": 11909,
+  "code": 34312},
 "Go" :{
   "nFiles": 247,
   "blank": 4187,
   "comment": 1216,
   "code": 21595},
 "Python" :{
-  "nFiles": 261,
-  "blank": 2909,
-  "comment": 1297,
-  "code": 17159},
+  "nFiles": 256,
+  "blank": 2825,
+  "comment": 1251,
+  "code": 16813},
 "Vuejs Component" :{
   "nFiles": 160,
   "blank": 1093,
@@ -92,6 +92,11 @@
   "blank": 109,
   "comment": 88,
   "code": 445},
+"Svelte" :{
+  "nFiles": 11,
+  "blank": 70,
+  "comment": 0,
+  "code": 416},
 "DOS Batch" :{
   "nFiles": 4,
   "blank": 106,
@@ -102,11 +107,6 @@
   "blank": 40,
   "comment": 0,
   "code": 366},
-"Svelte" :{
-  "nFiles": 9,
-  "blank": 55,
-  "comment": 0,
-  "code": 345},
 "JSX" :{
   "nFiles": 6,
   "blank": 38,
@@ -117,16 +117,16 @@
   "blank": 87,
   "comment": 14,
   "code": 265},
-"SQL" :{
-  "nFiles": 10,
-  "blank": 19,
-  "comment": 4,
-  "code": 207},
 "Ant" :{
   "nFiles": 1,
   "blank": 25,
   "comment": 17,
   "code": 180},
+"SQL" :{
+  "nFiles": 10,
+  "blank": 19,
+  "comment": 4,
+  "code": 167},
 "INI" :{
   "nFiles": 13,
   "blank": 13,
@@ -137,6 +137,11 @@
   "blank": 11,
   "comment": 0,
   "code": 159},
+"Lua" :{
+  "nFiles": 2,
+  "blank": 29,
+  "comment": 1,
+  "code": 146},
 "Bourne Again Shell" :{
   "nFiles": 1,
   "blank": 2,
@@ -158,7 +163,7 @@
   "comment": 1,
   "code": 49},
 "SUM": {
-  "blank": 34927,
-  "comment": 62292,
-  "code": 345012,
-  "nFiles": 2197} }
+  "blank": 34956,
+  "comment": 52639,
+  "code": 333356,
+  "nFiles": 2199} }
