@@ -1,17 +1,17 @@
 {"header" : {
   "cloc_url"           : "github.com/AlDanial/cloc",
   "cloc_version"       : "1.98",
-  "elapsed_seconds"    : 4.98676609992981,
-  "n_files"            : 4036,
-  "n_lines"            : 387833,
-  "files_per_second"   : 809.342150628803,
-  "lines_per_second"   : 77772.4465571904,
+  "elapsed_seconds"    : 5.01372098922729,
+  "n_files"            : 4060,
+  "n_lines"            : 389015,
+  "files_per_second"   : 809.777809479925,
+  "lines_per_second"   : 77590.0774765598,
   "report_file"        : "../output/cloc-output.json"},
 "TypeScript" :{
-  "nFiles": 629,
-  "blank": 6519,
-  "comment": 16851,
-  "code": 87533},
+  "nFiles": 639,
+  "blank": 6598,
+  "comment": 16894,
+  "code": 88063},
 "C++" :{
   "nFiles": 436,
   "blank": 3070,
@@ -32,6 +32,11 @@
   "blank": 3532,
   "comment": 1479,
   "code": 17518},
+"Vuejs Component" :{
+  "nFiles": 163,
+  "blank": 1059,
+  "comment": 239,
+  "code": 13304},
 "HCL" :{
   "nFiles": 271,
   "blank": 2831,
@@ -42,11 +47,6 @@
   "blank": 2794,
   "comment": 545,
   "code": 13041},
-"Vuejs Component" :{
-  "nFiles": 159,
-  "blank": 1020,
-  "comment": 238,
-  "code": 12893},
 "TeX" :{
   "nFiles": 528,
   "blank": 3935,
@@ -123,25 +123,25 @@
   "comment": 0,
   "code": 416},
 "Bourne Again Shell" :{
-  "nFiles": 5,
-  "blank": 73,
-  "comment": 47,
-  "code": 328},
+  "nFiles": 8,
+  "blank": 83,
+  "comment": 49,
+  "code": 347},
 "JSX" :{
   "nFiles": 6,
   "blank": 38,
   "comment": 103,
   "code": 309},
+"SQL" :{
+  "nFiles": 22,
+  "blank": 25,
+  "comment": 6,
+  "code": 272},
 "make" :{
   "nFiles": 10,
   "blank": 99,
   "comment": 24,
   "code": 262},
-"SQL" :{
-  "nFiles": 15,
-  "blank": 23,
-  "comment": 4,
-  "code": 228},
 "Maven" :{
   "nFiles": 3,
   "blank": 14,
@@ -178,7 +178,7 @@
   "comment": 0,
   "code": 36},
 "SUM": {
-  "blank": 34374,
-  "comment": 33579,
-  "code": 319880,
-  "nFiles": 4036} }
+  "blank": 34504,
+  "comment": 33627,
+  "code": 320884,
+  "nFiles": 4060} }
