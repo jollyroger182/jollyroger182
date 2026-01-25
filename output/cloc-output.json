@@ -1,27 +1,27 @@
 {"header" : {
   "cloc_url"           : "github.com/AlDanial/cloc",
   "cloc_version"       : "1.98",
-  "elapsed_seconds"    : 5.01372098922729,
-  "n_files"            : 4060,
-  "n_lines"            : 389015,
-  "files_per_second"   : 809.777809479925,
-  "lines_per_second"   : 77590.0774765598,
+  "elapsed_seconds"    : 5.08352613449097,
+  "n_files"            : 4230,
+  "n_lines"            : 397316,
+  "files_per_second"   : 832.099587587458,
+  "lines_per_second"   : 78157.5602226711,
   "report_file"        : "../output/cloc-output.json"},
 "TypeScript" :{
-  "nFiles": 639,
-  "blank": 6598,
-  "comment": 16894,
-  "code": 88063},
+  "nFiles": 704,
+  "blank": 6962,
+  "comment": 17465,
+  "code": 92921},
 "C++" :{
   "nFiles": 436,
   "blank": 3070,
   "comment": 1346,
   "code": 56322},
 "JavaScript" :{
-  "nFiles": 112,
-  "blank": 1405,
+  "nFiles": 114,
+  "blank": 1413,
   "comment": 4528,
-  "code": 46362},
+  "code": 46397},
 "Go" :{
   "nFiles": 247,
   "blank": 4187,
@@ -29,9 +29,9 @@
   "code": 21595},
 "Python" :{
   "nFiles": 238,
-  "blank": 3532,
-  "comment": 1479,
-  "code": 17518},
+  "blank": 3562,
+  "comment": 1503,
+  "code": 17674},
 "Vuejs Component" :{
   "nFiles": 163,
   "blank": 1059,
@@ -43,10 +43,10 @@
   "comment": 1441,
   "code": 13275},
 "Asymptote" :{
-  "nFiles": 714,
-  "blank": 2794,
-  "comment": 545,
-  "code": 13041},
+  "nFiles": 721,
+  "blank": 2849,
+  "comment": 589,
+  "code": 13181},
 "TeX" :{
   "nFiles": 528,
   "blank": 3935,
@@ -58,14 +58,19 @@
   "comment": 0,
   "code": 6945},
 "Java" :{
-  "nFiles": 115,
-  "blank": 994,
-  "comment": 74,
-  "code": 6658},
+  "nFiles": 110,
+  "blank": 883,
+  "comment": 57,
+  "code": 6232},
+"Kotlin" :{
+  "nFiles": 161,
+  "blank": 794,
+  "comment": 6,
+  "code": 4513},
 "Bourne Shell" :{
-  "nFiles": 147,
-  "blank": 489,
-  "comment": 431,
+  "nFiles": 146,
+  "blank": 493,
+  "comment": 429,
   "code": 4060},
 "Assembly" :{
   "nFiles": 10,
@@ -92,21 +97,16 @@
   "blank": 244,
   "comment": 94,
   "code": 3065},
-"Kotlin" :{
-  "nFiles": 65,
-  "blank": 424,
-  "comment": 24,
-  "code": 2564},
 "Freemarker Template" :{
-  "nFiles": 65,
-  "blank": 79,
+  "nFiles": 71,
+  "blank": 105,
   "comment": 20,
-  "code": 1868},
+  "code": 2146},
 "Gradle" :{
-  "nFiles": 15,
-  "blank": 161,
-  "comment": 122,
-  "code": 689},
+  "nFiles": 14,
+  "blank": 154,
+  "comment": 114,
+  "code": 656},
 "Rust" :{
   "nFiles": 18,
   "blank": 104,
@@ -133,10 +133,10 @@
   "comment": 103,
   "code": 309},
 "SQL" :{
-  "nFiles": 22,
-  "blank": 25,
+  "nFiles": 23,
+  "blank": 28,
   "comment": 6,
-  "code": 272},
+  "code": 286},
 "make" :{
   "nFiles": 10,
   "blank": 99,
@@ -149,9 +149,9 @@
   "code": 216},
 "Dockerfile" :{
   "nFiles": 9,
-  "blank": 64,
-  "comment": 20,
-  "code": 191},
+  "blank": 62,
+  "comment": 19,
+  "code": 188},
 "Ant" :{
   "nFiles": 1,
   "blank": 25,
@@ -178,7 +178,7 @@
   "comment": 0,
   "code": 36},
 "SUM": {
-  "blank": 34504,
-  "comment": 33627,
-  "code": 320884,
-  "nFiles": 4060} }
+  "blank": 35244,
+  "comment": 34220,
+  "code": 327852,
+  "nFiles": 4230} }
