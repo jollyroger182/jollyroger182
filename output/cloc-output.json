@@ -1,37 +1,37 @@
 {"header" : {
   "cloc_url"           : "github.com/AlDanial/cloc",
   "cloc_version"       : "1.98",
-  "elapsed_seconds"    : 5.02041387557983,
-  "n_files"            : 4273,
-  "n_lines"            : 394745,
-  "files_per_second"   : 851.125047834127,
-  "lines_per_second"   : 78627.9796413017,
+  "elapsed_seconds"    : 5.20135283470154,
+  "n_files"            : 4272,
+  "n_lines"            : 393071,
+  "files_per_second"   : 821.324785255629,
+  "lines_per_second"   : 75570.9163542171,
   "report_file"        : "../output/cloc-output.json"},
 "TypeScript" :{
-  "nFiles": 711,
-  "blank": 6823,
-  "comment": 17411,
-  "code": 90091},
+  "nFiles": 697,
+  "blank": 6676,
+  "comment": 17435,
+  "code": 87976},
 "C++" :{
   "nFiles": 436,
   "blank": 3070,
   "comment": 1346,
   "code": 56322},
 "JavaScript" :{
-  "nFiles": 88,
-  "blank": 1224,
-  "comment": 4474,
-  "code": 44748},
+  "nFiles": 87,
+  "blank": 1222,
+  "comment": 4473,
+  "code": 44740},
 "Go" :{
   "nFiles": 247,
   "blank": 4187,
   "comment": 1216,
   "code": 21595},
 "Python" :{
-  "nFiles": 233,
-  "blank": 3505,
-  "comment": 1484,
-  "code": 17453},
+  "nFiles": 232,
+  "blank": 3489,
+  "comment": 1481,
+  "code": 17384},
 "Asymptote" :{
   "nFiles": 733,
   "blank": 2973,
@@ -58,15 +58,15 @@
   "comment": 0,
   "code": 6945},
 "Java" :{
-  "nFiles": 110,
-  "blank": 883,
-  "comment": 57,
-  "code": 6232},
+  "nFiles": 108,
+  "blank": 869,
+  "comment": 55,
+  "code": 6165},
 "Kotlin" :{
-  "nFiles": 213,
-  "blank": 932,
-  "comment": 13,
-  "code": 5258},
+  "nFiles": 230,
+  "blank": 1074,
+  "comment": 8,
+  "code": 6001},
 "Elixir" :{
   "nFiles": 62,
   "blank": 777,
@@ -103,20 +103,15 @@
   "comment": 20,
   "code": 2146},
 "Gradle" :{
-  "nFiles": 14,
-  "blank": 154,
-  "comment": 114,
-  "code": 648},
+  "nFiles": 12,
+  "blank": 142,
+  "comment": 102,
+  "code": 590},
 "Rust" :{
   "nFiles": 18,
   "blank": 104,
   "comment": 8,
   "code": 492},
-"DOS Batch" :{
-  "nFiles": 5,
-  "blank": 127,
-  "comment": 8,
-  "code": 456},
 "Bourne Again Shell" :{
   "nFiles": 8,
   "blank": 102,
@@ -127,6 +122,16 @@
   "blank": 70,
   "comment": 0,
   "code": 416},
+"DOS Batch" :{
+  "nFiles": 4,
+  "blank": 102,
+  "comment": 6,
+  "code": 380},
+"SQL" :{
+  "nFiles": 27,
+  "blank": 32,
+  "comment": 7,
+  "code": 349},
 "make" :{
   "nFiles": 10,
   "blank": 104,
@@ -137,11 +142,6 @@
   "blank": 38,
   "comment": 103,
   "code": 309},
-"SQL" :{
-  "nFiles": 25,
-  "blank": 29,
-  "comment": 6,
-  "code": 304},
 "Maven" :{
   "nFiles": 3,
   "blank": 14,
@@ -163,10 +163,10 @@
   "comment": 1,
   "code": 146},
 "INI" :{
-  "nFiles": 14,
+  "nFiles": 15,
   "blank": 24,
   "comment": 0,
-  "code": 130},
+  "code": 132},
 "PO File" :{
   "nFiles": 1,
   "blank": 24,
@@ -178,7 +178,7 @@
   "comment": 0,
   "code": 36},
 "SUM": {
-  "blank": 35291,
+  "blank": 35220,
   "comment": 34184,
-  "code": 325270,
-  "nFiles": 4273} }
+  "code": 323667,
+  "nFiles": 4272} }
